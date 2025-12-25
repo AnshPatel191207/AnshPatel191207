@@ -67,7 +67,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://camo.githubusercontent.com/53340e5ee3bde920831b2abf1fe6ffc4fee163ec390c07fde48eeadc966f98a5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416e7368506174656c313931323037267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%; align-self:center">
+<img src="https://camo.githubusercontent.com/53340e5ee3bde920831b2abf1fe6ffc4fee163ec390c07fde48eeadc966f98a5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d416e7368506174656c313931323037267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&amp;theme=tokyonight&amp;hide_border=true" align="center" style="max-width: 100%;">
 
 ---
 
