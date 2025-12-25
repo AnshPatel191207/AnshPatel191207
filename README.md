@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;UI+Enthusiast;HTML+CSS+JavaScript;Design+Loves+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;UI+Enthusiast;HTML+CSS+JavaScript;Design+❤️+Code" />
 </p>
 
 <p align="center">
@@ -67,35 +67,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshPatel191207&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel191207&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshPatel191207&theme=onedark&no-frame=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/AnshPatel191207">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCArbk02_9l1Z-1K6REj44Nw">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="48" height="48" style="fill:#FF0000;" />
-  </a>
-</p>
 
 ---
 
