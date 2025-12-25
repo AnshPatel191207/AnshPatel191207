@@ -2,18 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com
-      ?font=Poppins
-      &weight=600
-      &size=22
-      &pause=800
-      &center=true
-      &vCenter=true
-      &width=520
-      &repeat=true
-      &lines=Frontend+Developer;UI+Enthusiast;HTML+CSS+JavaScript;Design+%E2%9D%A4%EF%B8%8F+Code"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;UI+Enthusiast;HTML+CSS+JavaScript;Design+Loves+Code" />
 </p>
 
 <p align="center">
@@ -50,58 +39,49 @@
 
 > Built **6 Website Clones** focusing on **UI accuracy & responsiveness**
 
-### 🔹 Vivo Clone #1
-- 🌐 Live Demo → [View](https://vivo-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/vivo-clone)
+### 🔹 Vivo Clone
+- 🌐 Live Demo → https://vivo-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/vivo-clone
 
-### 🔹 Disney Cruise Line Clone #2
-- 🌐 Live Demo → [View](https://disney-cruise-line-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/dcl-clone)
+### 🔹 Disney Cruise Line Clone
+- 🌐 Live Demo → https://disney-cruise-line-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/dcl-clone
 
-### 🔹 Ridge Clone #3
-- 🌐 Live Demo → [View](https://ridge-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/ridge-clone)
+### 🔹 Ridge Clone
+- 🌐 Live Demo → https://ridge-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/ridge-clone
 
-### 🔹 Ember Clone #4
-- 🌐 Live Demo → [View](https://ember-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/ember-clone)
+### 🔹 Ember Clone
+- 🌐 Live Demo → https://ember-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/ember-clone
 
-### 🔹 Ultimate Ears Clone #5
-- 🌐 Live Demo → [View](https://ultimate-ears-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/ultimate-ears-clone)
+### 🔹 Ultimate Ears Clone
+- 🌐 Live Demo → https://ultimate-ears-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/ultimate-ears-clone
 
-### 🔹 Zerodha Clone #6
-- 🌐 Live Demo → [View](https://zerodha-clone.netlify.app)
-- 📁 Source Code → [GitHub](https://github.com/AnshPatel191207/zerodha-clone)
+### 🔹 Zerodha Clone
+- 🌐 Live Demo → https://zerodha-clone.netlify.app
+- 📁 Source Code → https://github.com/AnshPatel191207/zerodha-clone
+
 ---
 
-## 📊 GitHub Stats (Fixed)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=AnshPatel191207&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel191207&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshPatel191207&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshPatel191207&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies (Fixed)
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=AnshPatel191207&theme=onedark&no-frame=true"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshPatel191207&theme=onedark&no-frame=true" />
 </p>
 
 ---
@@ -112,8 +92,9 @@
   <a href="https://www.linkedin.com/in/AnshPatel191207">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="[https://example.com](https://www.youtube.com/channel/UCArbk02_9l1Z-1K6REj44Nw)">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="48" />
+
+  <a href="https://www.youtube.com/channel/UCArbk02_9l1Z-1K6REj44Nw">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" width="48" height="48" style="fill:#FF0000;" />
   </a>
 </p>
 
