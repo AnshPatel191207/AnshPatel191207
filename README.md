@@ -127,11 +127,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://linkedin.com/in/AnshPatel191207">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@YOUR-CHANNEL">
-    <img src="https://skillicons.dev/icons?i=youtube" />
+  <a href="https://www.youtube.com/channel/UCArbk02_9l1Z-1K6REj44Nw/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
