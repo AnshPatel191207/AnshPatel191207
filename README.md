@@ -1,33 +1,35 @@
 <!-- ================= HERO ================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=140&section=header" />
+
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;Building+Modern+Responsive+Web+Interfaces;Learning+Backend+for+Full-Stack+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+Modern+Responsive+Web+Interfaces;UI+Focused+Web+Development;Learning+Backend+for+Full-Stack+Growth" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshPatel191207&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AnshPatel191207&label=Profile%20Views&color=4F46E5&style=flat" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
 <p align="center">
-🚀 Frontend Developer focused on building <b>pixel-perfect, responsive UIs</b><br>
+🚀 Frontend Developer focused on <b>pixel-perfect, responsive user interfaces</b><br>
 🎨 Strong eye for <b>clean layouts, spacing & typography</b><br>
-🧠 Skilled in <b>HTML, CSS & JavaScript</b> through real-world projects<br>
-🖌️ Passionate about <b>UI/UX & modern web design systems</b><br>
-🔥 Constantly improving by recreating and refining real products
+🧠 Skilled in <b>HTML, CSS & JavaScript</b> through hands-on projects<br>
+🖌️ Passionate about <b>UI/UX & modern design systems</b><br>
+🔥 Constantly improving by <b>recreating real-world products</b>
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= TECH STACK ================= -->
@@ -75,18 +77,18 @@
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
 <p align="center">
-💡 All projects focus on <b>UI accuracy, responsiveness, and clean code structure</b>
+💡 All projects focus on <b>UI precision, responsiveness & clean structure</b>
 </p>
 
 | Project | Live Demo | Source Code |
-|------|-----------|------------|
+|-------|-----------|-------------|
 | **Vivo Website Clone** | https://vivo-clone.netlify.app | https://github.com/AnshPatel191207/vivo-clone |
 | **Disney Cruise Line Clone** | https://disney-cruise-line-clone.netlify.app | https://github.com/AnshPatel191207/dcl-clone |
 | **Ridge Website Clone** | https://ridge-clone.netlify.app | https://github.com/AnshPatel191207/ridge-clone |
@@ -96,31 +98,31 @@
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=default&hide_border=true&ring=4F46E5&fire=9333EA&currStreakLabel=4F46E5" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= ACTIVITY GRAPH ================= -->
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel191207&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel191207&theme=github-compact&hide_border=true" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= CONNECT ================= -->
@@ -141,7 +143,7 @@
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
 <!-- ================= FUN FACT ================= -->
@@ -152,3 +154,5 @@
 </p>
 
 <h3 align="center">🚀 Let’s build something impactful together!</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer" />
