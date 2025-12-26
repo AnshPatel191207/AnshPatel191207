@@ -9,8 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=AnshPatel191207&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
 <!-- ================= DIVIDER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
@@ -26,8 +24,6 @@
 🖌️ Interested in <b>UI/UX & Web Design</b><br>
 🔥 Always learning & improving through projects
 </p>
-
----
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
@@ -46,8 +42,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
 </p>
-
----
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
@@ -70,21 +64,17 @@
 | **Ultimate Ears Clone** | https://ultimate-ears-clone.netlify.app | https://github.com/AnshPatel191207/ultimate-ears-clone |
 | **Zerodha Clone** | https://zerodha-clone.netlify.app | https://github.com/AnshPatel191207/zerodha-clone |
 
----
-
 <!-- ================= DIVIDER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
 </p>
 
 <!-- ================= STATS ================= -->
-## 📊 GitHub Stats (Glassmorphism)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
@@ -98,8 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel191207&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
 <!-- ================= DIVIDER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
@@ -111,7 +99,5 @@
 <p align="center">
 <i>“Consistency beats talent when talent doesn’t work consistently.”</i>
 </p>
-
----
 
 <h3 align="center">🚀 Let’s build something amazing together!</h3>
