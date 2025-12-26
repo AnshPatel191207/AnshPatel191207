@@ -105,7 +105,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=default&hide_border=true&ring=4F46E5&fire=9333EA&currStreakLabel=4F46E5" />
+  <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=transparent&hide_border=true" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
