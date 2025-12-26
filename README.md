@@ -11,10 +11,15 @@
 
 ---
 
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
-<p align="left">
+<p align="center">
 🚀 Passionate <b>Frontend Developer</b><br>
 🎨 Love building <b>clean, modern & responsive UI</b><br>
 🧠 Focused on <b>HTML, CSS & JavaScript</b><br>
@@ -24,20 +29,30 @@
 
 ---
 
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🎨 Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
 </p>
 
 ---
+
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
 
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
@@ -47,7 +62,7 @@
 </p>
 
 | Project | Live Demo | Source Code |
-|-------|----------|-------------|
+|------|-----------|------------|
 | **Vivo Clone** | https://vivo-clone.netlify.app | https://github.com/AnshPatel191207/vivo-clone |
 | **Disney Cruise Line Clone** | https://disney-cruise-line-clone.netlify.app | https://github.com/AnshPatel191207/dcl-clone |
 | **Ridge Clone** | https://ridge-clone.netlify.app | https://github.com/AnshPatel191207/ridge-clone |
@@ -57,32 +72,40 @@
 
 ---
 
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
 <!-- ================= STATS ================= -->
-## 📊 GitHub Overview
+## 📊 GitHub Stats (Glassmorphism)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshPatel191207&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshPatel191207&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
+<!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshPatel191207&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
 </p>
 
----
-
-<!-- ================= QUOTE ================= -->
+<!-- ================= FUN FACT ================= -->
 ## ⚡ Fun Fact
 
 <p align="center">
