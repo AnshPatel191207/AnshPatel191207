@@ -33,14 +33,40 @@
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+<!-- ===== Frontend ===== -->
+### 🌐 Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
-
-### 🎨 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
+  <sub>Building clean, modern, and responsive user interfaces</sub>
+</p>
+
+<!-- ===== Core Programming ===== -->
+### 🧠 Core Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" />
+</p>
+<p align="center">
+  <sub>Strong foundation in programming logic and problem-solving</sub>
+</p>
+
+<!-- ===== UI / UX ===== -->
+### 🎨 UI / UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+<p align="center">
+  <sub>Designing intuitive layouts and user-friendly interfaces</sub>
+</p>
+
+<!-- ===== Tools ===== -->
+### ⚙️ Development Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+<p align="center">
+  <sub>Version control, collaboration, and efficient development workflow</sub>
 </p>
 
 <!-- ================= DIVIDER ================= -->
@@ -74,6 +100,18 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ================= DIVIDER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
+<!-- ================= CONTRIBUTOR STATS ================= -->
+## 🏆 GitHub Contributor Stats
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AnshPatel191207&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
