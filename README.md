@@ -35,7 +35,7 @@
 
 ### 🌐 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🎨 Tools
@@ -73,7 +73,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AnshPatel191207&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
