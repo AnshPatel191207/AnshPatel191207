@@ -14,7 +14,7 @@
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
 
-<p align="center">
+<p align="left">
 🚀 Passionate <b>Frontend Developer</b><br>
 🎨 Love building <b>clean, modern & responsive UI</b><br>
 🧠 Focused on <b>HTML, CSS & JavaScript</b><br>
@@ -28,12 +28,12 @@
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🎨 Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
 </p>
 
