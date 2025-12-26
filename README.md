@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=520&loop=true&lines=Frontend+Developer;Learning+Backend+for+Full-Stack+Development" />
 </p>
 
 <p align="center">
