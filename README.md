@@ -69,10 +69,10 @@
 
 ### 🌱 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
 </p>
 <p align="center">
-  <sub>Expanding towards full-stack development</sub>
+  <sub>Building full-stack apps with React, Node.js & MongoDB</sub>
 </p>
 
 <!-- ================= DIVIDER ================= -->
