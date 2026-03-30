@@ -80,27 +80,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
 </p>
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
-
-<p align="center">
-💡 All projects focus on <b>UI precision, responsiveness & clean structure</b>
-</p>
-
-| Project | Live Demo | Source Code |
-|-------|-----------|-------------|
-| **Vivo Website Clone** | https://vivo-clone.netlify.app | https://github.com/AnshPatel191207/vivo-clone |
-| **Disney Cruise Line Clone** | https://disney-cruise-line-clone.netlify.app | https://github.com/AnshPatel191207/dcl-clone |
-| **Ridge Website Clone** | https://ridge-clone.netlify.app | https://github.com/AnshPatel191207/ridge-clone |
-| **Ember Website Clone** | https://ember-clone.netlify.app | https://github.com/AnshPatel191207/ember-clone |
-| **Ultimate Ears Clone** | https://ultimate-ears-clone.netlify.app | https://github.com/AnshPatel191207/ultimate-ears-clone |
-| **Zerodha Clone** | https://zerodha-clone.netlify.app | https://github.com/AnshPatel191207/zerodha-clone |
-
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:4F46E5,100:9333EA" />
-</p>
-
 <!-- ================= ACTIVITY GRAPH ================= -->
 ## 📈 GitHub Activity Graph
 
