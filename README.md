@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ansh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=620&lines=Frontend+Developer;Building+Modern+Responsive+Web+Interfaces;UI+Focused+Web+Development;Learning+Backend+for+Full-Stack+Growth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=800&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;Building+Modern+Responsive+Web+Interfaces;UI+Focused+Web+Development" />
 </p>
 
 <p align="center">
