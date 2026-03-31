@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-🚀 Frontend Developer focused on <b>pixel-perfect, responsive user interfaces</b><br>
+🚀 Aspiring Full-Stack Developer focused on <b>pixel-perfect, responsive user interfaces</b><br>
 🎨 Strong eye for <b>clean layouts, spacing & typography</b><br>
 🧠 Skilled in <b>HTML, CSS & JavaScript</b> through hands-on projects<br>
 🖌️ Passionate about <b>UI/UX & modern design systems</b><br>
