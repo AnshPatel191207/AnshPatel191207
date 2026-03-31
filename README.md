@@ -45,7 +45,7 @@
 
 ### 🧠 Core Programming
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 <p align="center">
   <sub>Strong foundation in programming logic & problem-solving</sub>
@@ -101,6 +101,15 @@
   </a>
   <a href="https://www.youtube.com/channel/UCArbk02_9l1Z-1K6REj44Nw/">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:ansh.h.patel.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://anshpatel-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Jak-SCF86-Y17-GUFD1glooaYXO8-mtD/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
 
