@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 <p align="center">
-  <sub>Semantic HTML • Modern CSS • Responsive Layouts • UI Accuracy</sub>
+  Semantic HTML • Modern CSS • Responsive Layouts • UI Accuracy
 </p>
 
 ### 🧠 Core Programming
@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 <p align="center">
-  <sub>Strong foundation in programming logic & problem-solving</sub>
+  Strong foundation in programming logic & problem-solving
 </p>
 
 ### 🎨 UI / UX & Design
@@ -56,7 +56,7 @@
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 <p align="center">
-  <sub>Designing intuitive, user-friendly interfaces</sub>
+  Designing intuitive, user-friendly interfaces
 </p>
 
 ### ⚙️ Development Tools
@@ -64,7 +64,7 @@
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 <p align="center">
-  <sub>Version control, collaboration & efficient workflow</sub>
+  Version control, collaboration & efficient workflow
 </p>
 
 ### 🌱 Currently Learning
@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
 </p>
 <p align="center">
-  <sub>Building full-stack apps with React, Node.js & MongoDB</sub>
+  Building full-stack apps with React, Node.js & MongoDB
 </p>
 
 <!-- ================= DIVIDER ================= -->
@@ -114,7 +114,7 @@
 </p>
 
 <p align="center">
-  <sub>Open to internships, collaborations & frontend opportunities</sub>
+  Open to internships, collaborations & frontend opportunities
 </p>
 
 <!-- ================= DIVIDER ================= -->
